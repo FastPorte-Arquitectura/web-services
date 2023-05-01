@@ -41,7 +41,7 @@ public class Card implements Serializable {
     private String email;
 
     /*
-    @OneToOne(mappedBy = "card")
+    @OneToOne(mappedBy. = "card")
     private CardDriver cardDriver;
 
     @OneToOne(mappedBy = "card")
